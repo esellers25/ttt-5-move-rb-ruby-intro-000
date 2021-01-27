@@ -13,5 +13,3 @@ end
 def move(board, position, letter = "X")
   board[position] = letter
 end
-
-
